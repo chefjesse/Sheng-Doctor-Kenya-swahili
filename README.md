@@ -61,4 +61,12 @@ This project is under the **MIT License** – open and free for community use.
 ---
 
 🌍 **Sheng ni life. Sheng ni culture. Sheng ni Kenya.** 🇰🇪  
+## 📊 Dataset
+
+This repo contains the **Sheng Doctor Dataset**, a collection of Kenyan Sheng words and their translations.
+
+- File: `data/sheng_doctor_dataset.csv`
+- Columns: `sheng_word`, `swahili_translation`, `english_translation`, `example_usage`
+
+✅ Licensed under **MIT License** (feel free to use and contribute).
 
