@@ -1,0 +1,43 @@
+# Sheng Doctor – Kenyan Swahili (Sheng) Project  
+
+Sheng Doctor is an open project dedicated to **documenting, standardizing, and digitizing Kenyan Swahili (Sheng)** for global recognition.  
+
+Kenyan Swahili, popularly known as **Sheng**, is a vibrant urban language born in Nairobi and spread across East Africa. It mixes Swahili, English, and local dialects — evolving daily through music, street culture, and online platforms.  
+
+This repository provides a **teaser dataset** of Sheng words, their English meanings, and example usage.  
+The **full dataset** is being curated for future use in translation software (Google Translate, Duolingo, DeepL), dictionaries, education, and cultural preservation.  
+
+---
+
+## 📂 Files in this Repo
+- **`sheng_doctor_teaser.csv`** → Sample Sheng words, meanings, and examples.  
+- **`README.md`** → This documentation file.  
+
+---
+
+## 📜 License  
+This dataset is shared under the **Creative Commons Attribution License (CC BY 4.0)**.  
+You may copy, remix, and share it, but you **must credit the Sheng Doctor Project**.  
+
+---
+
+## 🌍 Vision  
+- Recognize **Kenyan Swahili (Sheng)** as a standalone language variety.  
+- Provide tools for **translation apps, AI models, and educators**.  
+- Unite Kenyans online around our shared culture and linguistic identity.  
+
+---
+
+## 🚀 How to Contribute  
+We welcome contributions!  
+- Suggest new words and examples via issues or pull requests.  
+- Share Sheng content online using the hashtag **#ShengDoctor**.  
+- Help expand the dataset responsibly.  
+
+---
+
+## 📢 About  
+The Sheng Doctor Project was started in Kenya to give Sheng the global platform it deserves.  
+It’s more than slang — it’s culture, identity, and connection.  
+
+Follow the movement: **#ShengDoctor**  
